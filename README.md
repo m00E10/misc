@@ -3,7 +3,7 @@ Adds color for your plaintext notes.
 Helpful for organizing information.
 No plugins required!
 
-<img src="screenshots/vimnotes.png" alt "Vim Notes"/>
+<img src="screenshots/vimnotes.png" alt="Vim Notes"/>
 
 
 ## iPortfolio

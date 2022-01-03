@@ -1,3 +1,5 @@
+A collection of miscellaneous things that aren't big enough for their own repository, such as small scripts, fonts, or dotfiles.
+
 # vim-notes-syntax
 Adds color for your plaintext notes. 
 Helpful for organizing information.

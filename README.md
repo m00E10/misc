@@ -16,3 +16,8 @@ I enjoyed this font for a long time as it lets me have 160 columns in my termina
 Here is an image to compare, the original font is on the left, and my version is on the right.
 
 <img src="screenshots/iPortfolio-sc.png" alt="Font Comparison"/>
+
+## Golang Bitpacker
+A pseudo-bitpacker written in go, part of my studies in compression and understanding the different methods employed.
+
+<img serc="screenshots/bitpack.png" alt="go bitpacker"/>

@@ -20,4 +20,9 @@ Here is an image to compare, the original font is on the left, and my version is
 ## Golang Bitpacker
 A pseudo-bitpacker written in go, part of my studies in compression and understanding the different methods employed.
 
-<img serc="screenshots/bitpack.png" alt="go bitpacker"/>
+<img src="screenshots/bitpack.png" alt="go bitpacker"/>
+
+## Simple Pomodoro Timer
+Pomodor timer written in bash that I use to pace my studies.
+
+<img src="screenshots/pomo.png" alt="pomodor timer"/>

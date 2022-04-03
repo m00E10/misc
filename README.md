@@ -7,11 +7,6 @@ No plugins required!
 
 <img src="screenshots/vimnotes.png" alt="Vim Notes"/>
 
-## Golang Bitpacker
-A pseudo-bitpacker written in go, part of my studies in compression and understanding the different methods employed.
-
-<img src="screenshots/bitpack.png" alt="go bitpacker"/>
-
 ## Simple Pomodoro Timer
 Pomodor timer written in bash that I use to pace my studies.
 
